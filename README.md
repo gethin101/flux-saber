@@ -15,28 +15,22 @@ Flux Saber aims to be a clean, functional lightsaber with:
 
 ---
 
-## Parts List
+| Number | [Arduino Nano](ca://s?q=Arduino_Nano) | Main controller for LEDs + sound | £ | [AE](google.com) |
+|--------|----------------------------------------|----------------------------------|---|------------------|
+| 1 | [WS2812B LED Strip](ca://s?q=WS2812B_LED_strip) | Blade lighting | £ | [AE](google.com) |
+| 1 | [DFPlayer Mini](ca://s?q=DFPlayer_Mini_lightsaber_sound) | Plays MP3 sound effects | £ | [AE](google.com) |
+| 1 | [PAM8302 Amp](ca://s?q=PAM8302_audio_amplifier) | Boosts audio to speaker | £ | [AE](google.com) |
+| 1 | [8Ω 2W Speaker](ca://s?q=8_ohm_2W_speaker) | Outputs sound | £ | [AE](google.com) |
+| 1 | [Micro‑SD Card](ca://s?q=Micro_SD_card) | Stores MP3 sound files | £ | [AE](google.com) |
+| 1 | [MT3608 Boost Converter](ca://s?q=MT3608_boost_converter) | Boosts AA battery voltage to 5V | £ | [AE](google.com) |
+| 1 | [3× AA Battery Holder](ca://s?q=AA_battery_holder) | Powers the saber | £ | [AE](google.com) |
+| 2 | [Momentary Buttons](ca://s?q=Momentary_push_buttons) | Main power + extra sound | £ | [AE](google.com) |
+| 1 | [Clear PVC Blade Tube](ca://s?q=Clear_PVC_blade_tube) | Saber blade | £ | [AE](google.com) |
+| 1 | [Baking Paper](ca://s?q=Baking_paper_diffuser) | Blade diffusion | £ | [AE](google.com) |
+| 1 | [Reflective Tip](ca://s?q=Reflective_blade_tip) | Brightens blade end | £ | [AE](google.com) |
+| 1 | [3D‑Printed Hilt](ca://s?q=3D_printed_lightsaber_hilt) | Holds all electronics | £ | [AE](google.com) |
+| — | [Wires + Heat‑shrink](ca://s?q=Electronics_wires_heatshrink) | General wiring | £ | [AE](google.com) |
 
-### Electronics
-- Arduino Nano  
-- WS2812B LED strip  
-- MT3608 boost converter (set to 5V)  
-- 3× AA battery holder  
-- Momentary push buttons (x2)  
-- Wiring + heat‑shrink  
-
-### Sound System
-- DFPlayer Mini  
-- PAM8302 amplifier  
-- 8Ω 2W speaker  
-- Micro‑SD card (for sound files)
-
-### Blade + Hilt
-- Clear PVC tube  
-- Baking paper (diffusion)  
-- Reflective blade tip (foil or aluminium tape)  
-- 3D‑printed hilt  
-- Blade holder
 
 ---
 
