@@ -15,21 +15,24 @@ Flux Saber aims to be a clean, functional lightsaber with:
 
 ---
 
-| Number | [Arduino Nano](ca://s?q=Arduino_Nano) | Main controller for LEDs + sound | £ | [AE](google.com) |
-|--------|----------------------------------------|----------------------------------|---|------------------|
-| 1 | [WS2812B LED Strip](ca://s?q=WS2812B_LED_strip) | Blade lighting | £ | [AE](google.com) |
-| 1 | [DFPlayer Mini](ca://s?q=DFPlayer_Mini_lightsaber_sound) | Plays MP3 sound effects | £ | [AE](google.com) |
-| 1 | [PAM8302 Amp](ca://s?q=PAM8302_audio_amplifier) | Boosts audio to speaker | £ | [AE](google.com) |
-| 1 | [8Ω 2W Speaker](ca://s?q=8_ohm_2W_speaker) | Outputs sound | £ | [AE](google.com) |
-| 1 | [Micro‑SD Card](ca://s?q=Micro_SD_card) | Stores MP3 sound files | £ | [AE](google.com) |
-| 1 | [MT3608 Boost Converter](ca://s?q=MT3608_boost_converter) | Boosts AA battery voltage to 5V | £ | [AE](google.com) |
-| 1 | [3× AA Battery Holder](ca://s?q=AA_battery_holder) | Powers the saber | £ | [AE](google.com) |
-| 2 | [Momentary Buttons](ca://s?q=Momentary_push_buttons) | Main power + extra sound | £ | [AE](google.com) |
-| 1 | [Clear PVC Blade Tube](ca://s?q=Clear_PVC_blade_tube) | Saber blade | £ | [AE](google.com) |
-| 1 | [Baking Paper](ca://s?q=Baking_paper_diffuser) | Blade diffusion | £ | [AE](google.com) |
-| 1 | [Reflective Tip](ca://s?q=Reflective_blade_tip) | Brightens blade end | £ | [AE](google.com) |
-| 1 | [3D‑Printed Hilt](ca://s?q=3D_printed_lightsaber_hilt) | Holds all electronics | £ | [AE](google.com) |
-| — | [Wires + Heat‑shrink](ca://s?q=Electronics_wires_heatshrink) | General wiring | £ | [AE](google.com) |
+# BOM
+
+| Number | Name | Use | Price | Link |
+|--------|------|-----|--------|------|
+| 1 | Arduino Nano | Main microcontroller for LEDs + sound | £ | [link](google.com) |
+| 1 | WS2812B LED Strip | Blade lighting | £ | [link](google.com) |
+| 1 | DFPlayer Mini | Plays MP3 sound effects | £ | [link](google.com) |
+| 1 | PAM8302 Amplifier | Boosts audio to speaker | **OWN** | N/A |
+| 1 | 8Ω 2W Speaker | Outputs sound | £ | [link](google.com) |
+| 1 | Micro‑SD Card | Stores MP3 sound files | **OWN** | N/A |
+| 1 | MT3608 Boost Converter | Boosts AA battery voltage to 5V | **OWN** | N/A |
+| 1 | 4× AA Battery Holder | Powers the saber | £ | [AE](https://www.aliexpress.com/item/1005009290619005.html?spm=a2g0o.productlist.main.6.462a7bbdifoQlS&algo_pvid=5e401952-e62b-4a6a-876a-1445e0d1deb9&algo_exp_id=5e401952-e62b-4a6a-876a-1445e0d1deb9-5&pdp_ext_f=%7B%22order%22%3A%2226%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%211.38%211.33%21%21%2112.17%2111.73%21%4021613be817893155341732043e0e32%2112000048630566995%21sea%21GB%217850874718%21X%211%210%21n_tag%3A-29919%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895&curPageLogUid=0e5n3crJ5sqd&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009290619005%7C_p_origin_prod%3A) |
+| 2 | Momentary Buttons | Main power + extra sound | £ | [link](google.com) |
+| 1 | Clear PVC Blade Tube | Saber blade | £ | [link](google.com) |
+| 1 | Baking Paper | Blade diffusion | £ | [link](google.com) |
+| 1 | Reflective Blade Tip | Brightens blade end | £ | [link](google.com) |
+| 1 | 3D‑Printed Hilt | Holds all electronics | £ | N/A |
+| — | Wires + Heat‑shrink | General wiring | £ | [link](google.com) |
 
 
 ---
