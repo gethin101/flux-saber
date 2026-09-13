@@ -19,14 +19,14 @@ Flux Saber aims to be a clean, functional lightsaber with:
 
 | Number | Name | Use | Price | Link |
 |--------|------|-----|--------|------|
-| 1 | Arduino Nano (c) | Main microcontroller for LEDs + sound | £1.80 | [AE](https://www.aliexpress.com/item/1005005128673508.html?spm=a2g0o.productlist.main.3.4ac06f37VIYkRf&algo_pvid=5abcf1fc-0b68-4ea5-bd19-169e4acc327c&algo_exp_id=5abcf1fc-0b68-4ea5-bd19-169e4acc327c-2&pdp_ext_f=%7B%22order%22%3A%225995%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%211.92%211.80%21%21%212.52%212.36%21%4021613be817893156673624243e0d4b%2112000031772050220%21sea%21GB%217850874718%21XZ%211%210%21n_tag%3A-29919%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895%3BpisId%3A5000000217375147&curPageLogUid=pt2LSnO2Ef0Q&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005128673508%7C_p_origin_prod%3A) |
+| 1 | Arduino Nano (c) | Main microcontroller for LEDs + sound | £1.80 | [AE](https://www.aliexpress.com/item/1005005128673508.html) |
 | 1 | WS2812B LED Strip | Blade lighting | £ | [link](google.com) |
 | 1 | DFPlayer Mini | Plays MP3 sound effects | £ | [link](google.com) |
 | 1 | PAM8302 Amplifier | Boosts audio to speaker | **OWN** | N/A |
 | 1 | 8Ω 2W Speaker | Outputs sound | £ | [link](google.com) |
 | 1 | Micro‑SD Card | Stores MP3 sound files | **OWN** | N/A |
 | 1 | MT3608 Boost Converter | Boosts AA battery voltage to 5V | **OWN** | N/A |
-| 1 | 4× AA Battery Holder | Powers the saber | £1.33 | [AE](https://www.aliexpress.com/item/1005009290619005.html?spm=a2g0o.productlist.main.6.462a7bbdifoQlS&algo_pvid=5e401952-e62b-4a6a-876a-1445e0d1deb9&algo_exp_id=5e401952-e62b-4a6a-876a-1445e0d1deb9-5&pdp_ext_f=%7B%22order%22%3A%2226%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%211.38%211.33%21%21%2112.17%2111.73%21%4021613be817893155341732043e0e32%2112000048630566995%21sea%21GB%217850874718%21X%211%210%21n_tag%3A-29919%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895&curPageLogUid=0e5n3crJ5sqd&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009290619005%7C_p_origin_prod%3A) |
+| 1 | 4× AA Battery Holder | Powers the saber | £1.33 | [AE](https://www.aliexpress.com/item/1005009290619005.html) |
 | 2 | Momentary Buttons | Main power + extra sound | £ | [link](google.com) |
 | 1 | Clear PVC Blade Tube | Saber blade | £ | [link](google.com) |
 | 1 | Baking Paper | Blade diffusion | £ | [link](google.com) |
