@@ -21,7 +21,7 @@ Flux Saber aims to be a clean, functional lightsaber with:
 |--------|------|-----|--------|------|
 | 1 | Arduino Nano (c) | Main microcontroller for LEDs + sound | £1.80 | [AE](https://www.aliexpress.com/item/1005005128673508.html) |
 | 1 | WS2812B LED Strip (60 IP65 1m) | Blade lighting | £3.20 | [AE](https://www.aliexpress.com/item/1005003151401311.html) |
-| 1 | DFPlayer Mini | Plays MP3 sound effects | £ | [link](google.com) |
+| 1 | DFPlayer Mini | Plays MP3 sound effects | £1.93 | [AE](https://www.aliexpress.com/item/1005010550604358.html) |
 | 1 | PAM8302 Amplifier | Boosts audio to speaker | **OWN** | N/A |
 | 1 | 8Ω 2W Speaker | Outputs sound | £ | [link](google.com) |
 | 1 | Micro‑SD Card | Stores MP3 sound files | **OWN** | N/A |
