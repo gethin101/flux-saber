@@ -23,7 +23,7 @@ Flux Saber aims to be a clean, functional lightsaber with:
 | 1 | WS2812B LED Strip (60 IP65 1m) | Blade lighting | £3.20 | [AE](https://www.aliexpress.com/item/1005003151401311.html) |
 | 1 | DFPlayer Mini | Plays MP3 sound effects | £1.93 | [AE](https://www.aliexpress.com/item/1005010550604358.html) |
 | 1 | PAM8302 Amplifier | Boosts audio to speaker | **OWN** | N/A |
-| 1 | 8Ω 2W Speaker | Outputs sound | £ | [link](google.com) |
+| 1 | 8Ω 2W Speaker | Outputs sound | **OWN** | N/A) |
 | 1 | Micro‑SD Card | Stores MP3 sound files | **OWN** | N/A |
 | 1 | MT3608 Boost Converter | Boosts AA battery voltage to 5V | **OWN** | N/A |
 | 1 | 4× AA Battery Holder | Powers the saber | £1.33 | [AE](https://www.aliexpress.com/item/1005009290619005.html) |
