@@ -27,12 +27,16 @@ Flux Saber aims to be a clean, functional lightsaber with:
 | 1 | Micro‑SD Card | Stores MP3 sound files | **OWN** | N/A |
 | 1 | MT3608 Boost Converter | Boosts AA battery voltage to 5V | **OWN** | N/A |
 | 1 | 4× AA Battery Holder | Powers the saber | £1.33 | [AE](https://www.aliexpress.com/item/1005009290619005.html) |
-| 2 | Momentary Buttons | Main power + extra sound | £ | [link](google.com) |
+| 2 | Tactile buttons | Control special effects | **OWN** | N/A |
+| 1 | KCD11 rocker switch | Power kill switch | **OWN** | N/A |
 | 1 | Clear PVC Blade Tube | Saber blade | £ | [link](google.com) |
-| 1 | Baking Paper | Blade diffusion | £ | [link](google.com) |
+| 1 | Baking Paper | Blade diffusion | **OWN** | N/A |
 | 1 | Reflective Blade Tip | Brightens blade end | £ | [link](google.com) |
-| 1 | 3D‑Printed Hilt | Holds all electronics | £ | N/A |
-| — | Wires + Heat‑shrink | General wiring | £ | [link](google.com) |
+| 1 | 3D‑Printed Hilt | Holds all electronics | Filament | N/A |
+| 1 | Heat‑shrink tubing (164 bag) | Insulates solder joints | £1.22 | [AE](https://www.aliexpress.com/item/1005008064154315.html( |
+| - | Dupont jumper wires | General wiring | **OWN** | N/A |
+
+
 
 
 ---
